@@ -1,0 +1,88 @@
+{
+    "version": 2,
+    "settings": {
+        "color": {
+            "palette": [
+                {
+                    "name": "Background",
+                    "slug": "background",
+                    "color": "#282828"
+                },
+                {
+                    "name": "Foreground",
+                    "slug": "foreground",
+                    "color": "#ebdbb2"
+                },
+                {
+                    "name": "Red",
+                    "slug": "red",
+                    "color": "#cc241d"
+                },
+                {
+                    "name": "Green",
+                    "slug": "green",
+                    "color": "#98971a"
+                },
+                {
+                    "name": "Yellow",
+                    "slug": "yellow",
+                    "color": "#d79921"
+                },
+                {
+                    "name": "Blue",
+                    "slug": "blue",
+                    "color": "#458588"
+                },
+                {
+                    "name": "Purple",
+                    "slug": "purple",
+                    "color": "#b16286"
+                },
+                {
+                    "name": "Aqua",
+                    "slug": "aqua",
+                    "color": "#689d6a"
+                },
+                {
+                    "name": "Orange",
+                    "slug": "orange",
+                    "color": "#d65d0e"
+                }
+            ],
+            "custom": false
+        },
+        "typography": {
+            "fontSizes": [
+                {
+                    "name": "Small",
+                    "slug": "small",
+                    "size": "0.875rem"
+                },
+                {
+                    "name": "Normal",
+                    "slug": "normal",
+                    "size": "1rem"
+                },
+                {
+                    "name": "Large",
+                    "slug": "large",
+                    "size": "1.25rem"
+                },
+                {
+                    "name": "Extra Large",
+                    "slug": "extra-large",
+                    "size": "1.5rem"
+                }
+            ]
+        }
+    },
+    "styles": {
+        "color": {
+            "background": "#282828",
+            "text": "#ebdbb2"
+        },
+        "typography": {
+            "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif"
+        }
+    }
+}
