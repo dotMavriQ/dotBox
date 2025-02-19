@@ -73,6 +73,20 @@
                     "slug": "extra-large",
                     "size": "1.5rem"
                 }
+            ],
+            "fontFamilies": [
+                {
+                    "fontFamily": "'IBM Plex Sans', sans-serif",
+                    "name": "IBM Plex Sans",
+                    "slug": "ibm-plex-sans",
+                    "google": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap"
+                },
+                {
+                    "fontFamily": "'Fira Code', monospace",
+                    "name": "Fira Code",
+                    "slug": "fira-code",
+                    "google": "https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&display=swap"
+                }
             ]
         }
     },
@@ -82,7 +96,7 @@
             "text": "#ebdbb2"
         },
         "typography": {
-            "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif"
+            "fontFamily": "'Fira Code', monospace"
         }
     }
 }
